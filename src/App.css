@@ -1,0 +1,30 @@
+.profile-image-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.profile-image-wrapper .animated-status-circle-css {
+    position: absolute;
+    bottom: 35px;
+    right: 8px;
+    z-index: 1;
+}
+
+.animated-status-circle-css {
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    animation: fade-in-out var(--animation-duration, 2000ms) ease-in-out infinite;
+}
+
+@keyframes fade-in-out {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.1;
+    }
+}

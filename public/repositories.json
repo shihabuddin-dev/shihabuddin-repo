@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Flagship Store",
+    "repo": "https://github.com/shihabuddin-dev/flagship-store",
+    "live": "https://flagship-store.netlify.app/",
+    "language": "JavaScript",
+    "description": "Interactive JavaScript frontend simulating a premium online store for browsing product catalogs."
+  },
+  {
+    "name": "Gadget Lover",
+    "repo": "https://github.com/shihabuddin-dev/gadget-lover",
+    "live": "https://gedget-lover.netlify.app/",
+    "language": "JavaScript",
+    "description": "Engaging user-friendly JavaScript web app for discovering and browsing curated tech gadgets."
+  },
+  {
+    "name": "Book Vibe",
+    "repo": "https://github.com/shihabuddin-dev/book-vibe",
+    "live": "https://book-vibe-liart.vercel.app/",
+    "language": "JavaScript",
+    "description": "Intuitive JavaScript platform for discovering new books and browsing various literary genres."
+  },
+  {
+    "name": "Food Village",
+    "repo": "https://github.com/shihabuddin-dev/food-village",
+    "live": "https://food-village-phi.vercel.app/",
+    "language": "JavaScript",
+    "description": "Easily order pizza, burgers, pasta, fries & more online from Food Village now!"
+  },
+  {
+    "name": "Popular Gallery",
+    "live": "https://popular-gallery.vercel.app/",
+    "language": "JavaScript",
+    "description": "Discover the most popular and trending visual content daily in our curated Popular Gallery showcase."
+  },
+  {
+    "name": "Worlds Cricketer",
+    "repo": "https://github.com/shihabuddin-dev/Worlds-Cricketer",
+    "live": "https://worlds-cricketer.vercel.app/",
+    "language": "JavaScript",
+    "description": "Explore world cricketers: detailed profiles, statistics, and insightful information in one web application."
+  },
+  {
+    "name": "Shihab Uddin's Repo",
+    "repo": "https://github.com/shihabuddin-dev/shihabuddin-repo",
+    "live": "https://shihabuddin-repo.vercel.app/",
+    "language": "JavaScript",
+    "description": "A personal website showcasing projects and skills of Shihab Uddin, a developer."
+  },
+  {
+    "name": "Simple Blog",
+    "repo": "https://github.com/shihabuddin-dev/simple-blog",
+    "live": "https://simple-blog-umber.vercel.app/",
+    "language": "JavaScript",
+    "description": "A simple blog platform for easily sharing your thoughts and ideas online."
+  },
+  {
+    "name": "Products",
+    "repo": "https://github.com/shihabuddin-dev/products",
+    "live": "https://products-psi-two.vercel.app/",
+    "language": "JavaScript",
+    "description": "A versatile product showcase platform designed for displaying various types of items."
+  },
+  {
+    "name": "Warpaint",
+    "repo": "https://github.com/shihabuddin-dev/warpaint",
+    "live": "https://warpaint.vercel.app/",
+    "language": "JavaScript",
+    "description": "A creative platform dedicated to designing and sharing unique warpaint styles."
+  },
+  {
+    "name": "Friend Request",
+    "repo": "https://github.com/shihabuddin-dev/friend-request",
+    "live": "https://friend-request-eight.vercel.app/",
+    "language": "JavaScript",
+    "description": "A social site allowing users to send and accept friend requests online easily."
+  },
+  {
+    "name": "Water Bottles",
+    "repo": "https://github.com/shihabuddin-dev/water-bottles",
+    "live": "https://water-bottles-beta.vercel.app/",
+    "language": "JavaScript",
+    "description": "An online showcase featuring a variety of different water bottle products."
+  },
+  {
+    "name": "Github Showcase",
+    "repo": "https://github.com/shihabuddin-dev/shihabuddin-dev",
+    "live": "https://github.com/shihabuddin-dev"
+  },
+  {
+    "name": "Practice",
+    "description": "I'm practicing programming language and trying to learning new things.........."
+  },
+  {
+    "name": "World Countries",
+    "repo": "https://github.com/shihabuddin-dev/world-countries",
+    "live": "https://world-countries-pi.vercel.app/",
+    "language": "JavaScript",
+    "description": "A comprehensive site listing world countries along with their important details."
+  },
+  {
+    "name": "React19",
+    "repo": "https://github.com/shihabuddin-dev/React19",
+    "language": "JavaScript",
+    "description": "A React.js project demonstrating modern web development techniques and features."
+  },
+  {
+    "name": "Marhaba Solved",
+    "repo": "https://github.com/shihabuddin-dev/marhaba-soloved",
+    "language": "JavaScript",
+    "description": "A platform showcasing solved solutions for various JavaScript programming challenges."
+  },
+  {
+    "name": "Money Master",
+    "repo": "https://github.com/shihabuddin-dev/money-master",
+    "live": "https://shihabuddin-dev.github.io/money-master/",
+    "language": "JavaScript",
+    "description": "A personal finance tool for effective money management and budget tracking."
+  },
+  {
+    "name": "E Ticket",
+    "repo": "https://github.com/shihabuddin-dev/e-ticket",
+    "live": "https://shihabuddin-dev.github.io/e-ticket/",
+    "description": "A digital platform designed to issue, manage, and track electronic tickets."
+  },
+  {
+    "name": "JS Solved",
+    "repo": "https://github.com/shihabuddin-dev/js-solved",
+    "live": "https://shihabuddin-dev.github.io/js-solved/",
+    "language": "JavaScript",
+    "description": "An interactive site focused on solving diverse JavaScript coding exercises and challenges."
+  },
+  {
+    "name": "Pets Village",
+    "repo": "https://github.com/shihabuddin-dev/pets-village",
+    "live": "https://shihabuddin-dev.github.io/pets-village/",
+    "language": "JavaScript",
+    "description": "A charming village-themed website created especially for pet enthusiasts and lovers."
+  },
+  {
+    "name": "English Window",
+    "repo": "https://github.com/shihabuddin-dev/english-window",
+    "live": "https://english-window.vercel.app/",
+    "language": "JavaScript",
+    "description": "An educational platform dedicated to learning and improving English language skills effectively."
+  },
+  {
+    "name": "Organic Plants",
+    "repo": "https://github.com/shihabuddin-dev/organic-plants",
+    "live": "https://shihabuddin-dev.github.io/organic-plants/",
+    "language": "JavaScript",
+    "description": "An e-commerce site specializing in selling organic plants and various greenery items."
+  },
+  {
+    "name": "PH Tube",
+    "repo": "https://github.com/shihabuddin-dev/phero-tube",
+    "live": "https://shihabuddin-dev.github.io/phero-tube/",
+    "language": "JavaScript",
+    "description": "A user-friendly online platform designed for watching a wide variety of videos."
+  },
+  {
+    "name": "Second Counter",
+    "repo": "https://github.com/shihabuddin-dev/second-counter",
+    "live": "https://shihabuddin-dev.github.io/second-counter/",
+    "language": "JavaScript",
+    "description": "A simple and functional countdown timer application counting down to specific seconds."
+  },
+  {
+    "name": "JS Book",
+    "repo": "https://github.com/shihabuddin-dev/js-book",
+    "language": "JavaScript",
+    "description": "An informative JavaScript book aimed at helping users learn web development concepts."
+  },
+  {
+    "name": "Payoo MFS",
+    "repo": "https://github.com/shihabuddin-dev/payoo-mfs",
+    "live": "https://shihabuddin-dev.github.io/payoo-mfs/",
+    "language": "JavaScript",
+    "description": "A mobile financial services (MFS) platform facilitating easy online payments."
+  },
+  {
+    "name": "Dev Board",
+    "repo": "https://github.com/shihabuddin-dev/dev-board",
+    "live": "https://shihabuddin-dev.github.io/dev-board/",
+    "language": "JavaScript",
+    "description": "A dedicated developer's board for efficiently managing tasks and organizing projects."
+  },
+  {
+    "name": "Background Changer",
+    "repo": "https://github.com/shihabuddin-dev/background-changer",
+    "live": "https://shihabuddin-dev.github.io/background-changer/",
+    "language": "JavaScript",
+    "description": "A handy utility tool to dynamically change the background of a web page."
+  },
+  {
+    "name": "Instant Donate",
+    "repo": "https://github.com/shihabuddin-dev/instant-donate",
+    "live": "https://shihabuddin-dev.github.io/instant-donate/",
+    "language": "JavaScript",
+    "description": "An online platform enabling users to make quick and instant charitable donations."
+  },
+  {
+    "name": "Add Watch",
+    "repo": "https://github.com/shihabuddin-dev/add-watch",
+    "language": "JavaScript",
+    "description": "A simple website application to add new watch items and display them."
+  },
+  {
+    "name": "Simple Note",
+    "repo": "https://github.com/shihabuddin-dev/simple-note",
+    "live": "https://shihabuddin-dev.github.io/simple-note/",
+    "language": "JavaScript",
+    "description": "A basic and straightforward note-taking application designed for everyday use."
+  },
+  {
+    "name": "Cart Elements",
+    "repo": "https://github.com/shihabuddin-dev/cart-elements",
+    "live": "https://shihabuddin-dev.github.io/cart-elements/",
+    "language": "JavaScript",
+    "description": "Reusable e-commerce cart elements developed for integration into a shopping website."
+  },
+  {
+    "name": "Charity for Human",
+    "repo": "https://github.com/shihabuddin-dev/charity-for-human",
+    "live": "https://shihabuddin-dev.github.io/charity-for-human/",
+    "language": "JavaScript",
+    "description": "A dedicated charity platform focused on helping and supporting people in need."
+  },
+  {
+    "name": "Calculate BMI",
+    "repo": "https://github.com/shihabuddin-dev/calculate-bmi",
+    "live": "https://shihabuddin-dev.github.io/calculate-bmi/",
+    "language": "JavaScript",
+    "description": "A useful tool designed to calculate your Body Mass Index (BMI) easily."
+  },
+  {
+    "name": "EDU Marks Calc",
+    "repo": "https://github.com/shihabuddin-dev/edu-marks-calc",
+    "live": "https://shihabuddin-dev.github.io/edu-marks-calc/",
+    "language": "JavaScript",
+    "description": "A simple and effective tool for calculating and tracking students' academic marks."
+  },
+  {
+    "name": "Fruit Store",
+    "repo": "https://github.com/shihabuddin-dev/fruit-store",
+    "live": "https://siddikur-dev.github.io/fruit-store/",
+    "description": "An online store offering a selection of fresh fruits and vegetables."
+  },
+  {
+    "name": "Pets Area",
+    "repo": "https://github.com/shihabuddin-dev/pets-area",
+    "live": "https://shihabuddin-dev.github.io/pets-area/",
+    "description": "A resourceful website for pet lovers to find information and helpful resources."
+  },
+  {
+    "name": "Natures Platter",
+    "repo": "https://github.com/shihabuddin-dev/natures-platter",
+    "live": "https://shihabuddin-dev.github.io/natures-platter/",
+    "description": "A site dedicated to featuring organic foods and promoting healthy eating options."
+  },
+  {
+    "name": "Registration Form",
+    "repo": "https://github.com/shihabuddin-dev/tailwind-form",
+    "live": "https://shihabuddin-dev.github.io/tailwind-form/",
+    "description": "A stylish and modern registration form expertly built using Tailwind CSS framework."
+  },
+  {
+    "name": "DaisyUI Easier",
+    "repo": "https://github.com/shihabuddin-dev/daisyui-easier",
+    "live": "https://shihabuddin-dev.github.io/daisyui-easier/",
+    "description": "A helpful tool designed to simplify using DaisyUI components for developers."
+  },
+  {
+    "name": "Solution of Law",
+    "repo": "https://github.com/shihabuddin-dev/solution-of-law",
+    "live": "https://shihabuddin-dev.github.io/solution-of-law/",
+    "description": "A dedicated site offering various legal solutions and valuable law-related resources."
+  },
+  {
+    "name": "TR Bikes",
+    "repo": "https://github.com/shihabuddin-dev/tr-bikes",
+    "live": "https://shihabuddin-dev.github.io/tr-bikes/",
+    "description": "A dynamic website showcasing an extensive collection of various types of bikes."
+  },
+  {
+    "name": "Web Development",
+    "language": "JavaScript",
+    "description": "Programming (Web Development) basic to full stack journey...."
+  },
+  {
+    "name": "Fitness Grow",
+    "repo": "https://github.com/shihabuddin-dev/fitness-grow",
+    "live": "https://shihabuddin-dev.github.io/fitness-grow/",
+    "description": "A comprehensive fitness site aimed to help users grow their physical strength."
+  },
+  {
+    "name": "Tea Bliss",
+    "repo": "https://github.com/shihabuddin-dev/tea-bliss",
+    "live": "https://shihabuddin-dev.github.io/tea-bliss/",
+    "description": "A delightful site dedicated to exploring and showcasing various exquisite tea varieties."
+  },
+  {
+    "name": "Play Game Here",
+    "repo": "https://github.com/shihabuddin-dev/play-game-here",
+    "live": "https://shihabuddin-dev.github.io/play-game-here/",
+    "description": "An entertaining website where users can play a variety of casual games online."
+  },
+  {
+    "name": "Dude Fashion",
+    "repo": "https://github.com/shihabuddin-dev/dude-fashion",
+    "live": "https://shihabuddin-dev.github.io/dude-fashion/",
+    "description": "A trendy fashion website exclusively dedicated to stylish men's clothing and apparel."
+  },
+  {
+    "name": "Donate for Human",
+    "repo": "https://github.com/shihabuddin-dev/donate-for-human",
+    "live": "https://shihabuddin-dev.github.io/donate-for-human/",
+    "description": "A compassionate donation site created with the purpose of helping the needy."
+  },
+  {
+    "name": "Fresh Flower Shop",
+    "repo": "https://github.com/shihabuddin-dev/fresh-flower-shop",
+    "live": "https://shihabuddin-dev.github.io/fresh-flower-shop/",
+    "description": "An elegant online flower shop presenting a beautiful and fresh floral collection."
+  },
+  {
+    "name": "Future Dev",
+    "repo": "https://github.com/shihabuddin-dev/future-dev",
+    "live": "https://shihabuddin-dev.github.io/future-dev/",
+    "description": "A forward-thinking website focusing on emerging future development technologies and trends."
+  },
+  {
+    "name": "kids School",
+    "repo": "https://github.com/shihabuddin-dev/kids-school",
+    "live": "https://shihabuddin-dev.github.io/kids-school/",
+    "description": "An engaging and informative school website designed specifically for kids' education."
+  },
+  {
+    "name": "One Chef Restaurant",
+    "repo": "https://github.com/shihabuddin-dev/one-chef-restaurant",
+    "live": "https://shihabuddin-dev.github.io/one-chef-restaurant/",
+    "description": "A minimalist restaurant website featuring a clean and simple menu layout design."
+  },
+  {
+    "name": "New Year Offer",
+    "repo": "https://github.com/shihabuddin-dev/new-year-offer",
+    "live": "https://shihabuddin-dev.github.io/new-year-offer/",
+    "description": "Showcasing special and exclusive New Year offers tailored for online shoppers."
+  },
+  {
+    "name": "Travel Topper",
+    "repo": "https://github.com/shihabuddin-dev/travel-topper",
+    "live": "https://shihabuddin-dev.github.io/travel-topper/",
+    "description": "An exciting travel website highlighting top and popular destinations around the world."
+  },
+  {
+    "name": "Modern Gadget",
+    "repo": "https://github.com/shihabuddin-dev/modern-gadget",
+    "live": "https://shihabuddin-dev.github.io/modern-gadget/",
+    "description": "A sleek site featuring the latest modern gadgets and cutting-edge technology trends."
+  },
+  {
+    "name": "Perfect Architects",
+    "repo": "https://github.com/shihabuddin-dev/perfect-architects",
+    "live": "https://shihabuddin-dev.github.io/perfect-architects/",
+    "description": "An impressive architecture firm website effectively displaying their portfolio of projects."
+  },
+  {
+    "name": "Rob Davidson",
+    "repo": "https://github.com/shihabuddin-dev/rob-davidson",
+    "live": "https://shihabuddin-dev.github.io/rob-davidson/",
+    "description": "A personal website created and dedicated to honoring Rob Davidson."
+  },
+  {
+    "name": "Jaman Mission",
+    "repo": "https://github.com/shihabuddin-dev/jaman-mission",
+    "live": "https://shihabuddin-dev.github.io/jaman-mission/",
+    "description": "An inspiring mission-based website for sharing and tracking personal life goals."
+  },
+  {
+    "name": "One Sell Site",
+    "repo": "https://github.com/shihabuddin-dev/one-sell-site",
+    "live": "https://shihabuddin-dev.github.io/one-sell-site",
+    "description": "A straightforward and simple e-commerce site designed for selling various items easily."
+  },
+  {
+    "name": "Developer Portfolio",
+    "repo": "https://github.com/shihabuddin-dev/developer-portfolio",
+    "live": "https://shihabuddin-dev.github.io/developer-portfolio",
+    "description": "A professional developer portfolio showcasing skills and a collection of completed projects."
+  },
+  {
+    "name": "Portfolio Site",
+    "repo": "https://github.com/shihabuddin-dev/portfolio-site",
+    "live": "https://shihabuddin-dev.github.io/portfolio-site/",
+    "description": "A clean personal portfolio website dedicated to showcasing my work and skills."
+  },
+  {
+    "name": "Shihab's Lifestyle Blog",
+    "repo": "https://github.com/shihabuddin-dev/shihab-own-blog",
+    "live": "https://shihabuddin-dev.github.io/shihab-own-blog",
+    "description": "A personal blog sharing unique lifestyle tips, insights, and personal stories."
+  },
+  {
+    "name": "Bangladesh-2.0",
+    "repo": "https://github.com/shihabuddin-dev/bangladesh-2.0",
+    "live": "https://shihabuddin-dev.github.io/bangladesh-2.0",
+    "description": "Presenting a compelling vision for Bangladesh's upcoming digital transformation journey."
+  },
+  {
+    "name": "New Year New Habits",
+    "repo": "https://github.com/shihabuddin-dev/new-year-new-habits",
+    "live": "https://shihabuddin-dev.github.io/new-year-new-habits",
+    "description": "A helpful tool to track goals and set positive new habits for the new year."
+  },
+  {
+    "name": "YOUNG OBAMA",
+    "repo": "https://github.com/shihabuddin-dev/simple-portfolio",
+    "live": "https://shihabuddin-dev.github.io/simple-portfolio/",
+    "description": "A simple yet effective personal portfolio site designed to showcase various skills."
+  },
+  {
+    "name": "26 And Four",
+    "repo": "https://github.com/shihabuddin-dev/26andfour",
+    "live": "https://omarfaruk-dev.github.io/26andfour",
+    "description": "A unique website displaying a collection of various interesting numerical challenges."
+  },
+  {
+    "name": "Responsive E-commerce",
+    "repo": "https://github.com/shihabuddin-dev/responsive-ecommerce",
+    "live": "https://shihabuddin-dev.github.io/responsive-ecommerce/",
+    "description": "A fully responsive e-commerce site enabling easy and convenient online shopping."
+  },
+  {
+    "name": "E-School",
+    "repo": "https://github.com/shihabuddin-dev/e-school",
+    "live": "https://shihabuddin-dev.github.io/e-school",
+    "description": "An innovative online school platform developed for engaging and interactive learning experiences."
+  },
+  {
+    "name": "Popular Gadget",
+    "repo": "https://github.com/shihabuddin-dev/popular-gadget",
+    "live": "https://shihabuddin-dev.github.io/popular-gadget",
+    "description": "A curated site showcasing the latest trending and highly popular gadgets available from top brands."
+  }
+]
