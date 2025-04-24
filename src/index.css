@@ -4,3 +4,7 @@
 .space-mono-font {
     font-family: "Space Mono", monospace;
 }
+
+html {
+    scroll-behavior: smooth;
+}

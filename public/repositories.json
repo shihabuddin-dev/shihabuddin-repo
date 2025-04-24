@@ -1,5 +1,19 @@
 [
   {
+    "name": "Vital Care",
+    "repo": "https://github.com/shihabuddin-dev/vital-care",
+    "live": "https://vital-car.netlify.app/",
+    "language": "JavaScript",
+    "description": "Healthcare application offering medical services and health-related information."
+  },
+  {
+    "name": "Law BD",
+    "repo": "https://github.com/shihabuddin-dev/Law-bd",
+    "live": "https://law-bd-pro.netlify.app/",
+    "language": "JavaScript",
+    "description": "Legal services platform providing information and resources for Bangladeshi law."
+  },
+  {
     "name": "Flagship Store",
     "repo": "https://github.com/shihabuddin-dev/flagship-store",
     "live": "https://flagship-store.netlify.app/",
@@ -29,6 +43,7 @@
   },
   {
     "name": "Popular Gallery",
+    "repo": "https://github.com/shihabuddin-dev/popular-gallery",
     "live": "https://popular-gallery.vercel.app/",
     "language": "JavaScript",
     "description": "Discover the most popular and trending visual content daily in our curated Popular Gallery showcase."
