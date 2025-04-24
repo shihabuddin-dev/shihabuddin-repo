@@ -4,8 +4,8 @@ const Loader = () => {
     return (
         <div className='flex justify-center pt-6'>
             <button type="button"
-                class="px-5 py-2.5 flex items-center justify-center green text-sm tracking-wider font-medium border-none outline-none">
-                <svg width="40px" fill="#4CAF50" class="mr-2 inline animate-spin"
+                className="px-5 py-2.5 flex items-center justify-center green text-sm tracking-wider font-medium border-none outline-none">
+                <svg width="40px" fill="#4CAF50" className="mr-2 inline animate-spin"
                     viewBox="0 0 26.349 26.35">
                     <circle cx="13.792" cy="3.082" r="3.082" data-original="#000000" />
                     <circle cx="13.792" cy="24.501" r="1.849" data-original="#000000" />
