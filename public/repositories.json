@@ -1,42 +1,40 @@
 [
-  
-    {
-      "name": "Easy Sub",
-      "repo": "https://github.com/shihabuddin-dev/easysub",
-      "live": "https://easysub.netlify.app/",
-      "language": "JavaScript",
-      "description": "Subscription management tool simplifying tracking and organization of recurring payments."
-    },
-    {
-      "name": "Core of Auth",
-      "language": "JavaScript",
-      "description": "Authentication system demonstrating user registration, login, and session management."
-    },
-    {
-      "name": "Travel Guru",
-      "repo": "https://github.com/shihabuddin-dev/travel-guru",
-      "live": "https://travel-guru-site-pro.netlify.app/",
-      "language": "JavaScript",
-      "description": "Travel booking platform for discovering destinations, and planning adventures."
-    },
-    {
-      "name": "The Dragon News",
-      "repo": "https://github.com/shihabuddin-dev/the-dragon-news",
-      "live": "https://the-dragon-news-2443b.web.app/",
-      "language": "JavaScript",
-      "description": "Dynamic news portal fetching latest articles from various sources and world update News."
-    },
-    {
-      "name": "My Setup",
-      "language": "JavaScript",
-      "description": "Personalized desktop setup showcase, displaying configurations for optimal productivity."
-    },
+  {
+    "name": "Easy Sub",
+    "repo": "https://github.com/shihabuddin-dev/easysub",
+    "live": "https://easysub.netlify.app/",
+    "language": "JavaScript",
+    "description": "Subscription management tool simplifying tracking and organization of recurring payments."
+  },
+  {
+    "name": "Core of Auth",
+    "language": "JavaScript",
+    "description": "Authentication system demonstrating user registration, login, and session management."
+  },
+  {
+    "name": "Travel Guru",
+    "repo": "https://github.com/shihabuddin-dev/travel-guru",
+    "live": "https://travel-guru-site-pro.netlify.app/",
+    "language": "JavaScript",
+    "description": "Travel booking platform for discovering destinations, and planning adventures easy to travel."
+  },
+  {
+    "name": "The Dragon News",
+    "repo": "https://github.com/shihabuddin-dev/the-dragon-news",
+    "live": "https://the-dragon-news-2443b.web.app/",
+    "language": "JavaScript",
+    "description": "Dynamic news portal fetching latest articles from various sources and world update News."
+  },
+  {
+    "name": "My Setup",
+    "language": "JavaScript"
+  },
   {
     "name": "Vital Care",
     "repo": "https://github.com/shihabuddin-dev/vital-care",
     "live": "https://vital-car.netlify.app/",
     "language": "JavaScript",
-    "description": "Healthcare application offering medical services and health-related information."
+    "description": "Healthcare application offering medical services,health-related information."
   },
   {
     "name": "Law BD",
