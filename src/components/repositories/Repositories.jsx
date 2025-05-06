@@ -15,7 +15,14 @@ const Repositories = ({ repositoriesPromise }) => {
         <div className='sm:w-7/12 container mx-auto text-center mt-6 px-2'>
             <h2 className='text-2xl font-bold space-x-1'>
                 <span>Total Repositories</span>
-                <span> <CountUp start={0} end={repositoriesData.length} enableScrollSpy duration={9} />+</span>
+                <span>
+                    <CountUp
+                        start={0}
+                        end={repositoriesData.length}
+                        enableScrollSpy
+                        duration={9}
+                    /> +
+                </span>
             </h2>
             <div className='grid sm:grid-cols-2 gap-3 mt-4'>
                 {
