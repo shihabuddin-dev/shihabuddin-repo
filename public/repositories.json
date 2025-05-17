@@ -1,5 +1,31 @@
 [
   {
+    "name": "User Management",
+    "repo": "https://github.com/shihabuddin-dev/user-management-client",
+    "live": "https://user-management-client-site.netlify.app/",
+    "language": "JavaScript",
+    "description": "A client-side application built with JavaScript for managing user accounts. Features likely include creating, viewing, updating, and deleting user information."
+  },
+  {
+    "name": "Espresso Emporium",
+    "repo": "https://github.com/shihabuddin-dev/espresso-emporium-client",
+    "live": "https://espresso-emporium-d3f99.web.app/",
+    "language": "JavaScript",
+    "description": "A JavaScript-based client application for 'Espresso Emporium,' likely designed to showcase coffee products, manage inventory, or facilitate online ordering for a coffee-themed business."
+  },
+  {
+    "name": "My Setup Server",
+    "language": "JavaScript",
+    "description": "A JavaScript-based backend server, likely using Node.js. The name suggests it might be a personalized server for managing configurations, data for a personal project, or a foundational boilerplate for other server applications."
+  },
+  {
+    "name": "type and Win",
+    "repo": "https://github.com/shihabuddin-dev/type-and-win",
+    "live": "https://shihabuddin-dev.github.io/type-and-win/",
+    "language": "JavaScript",
+    "description": "A fun and engaging browser-based typing game where your typing speed fuels your race car to victory against an AI opponent! Test your WPM (Words Per Minute) and see if you have what it takes to cross the finish line first."
+  },
+  {
     "name": "Easy Sub",
     "repo": "https://github.com/shihabuddin-dev/easysub",
     "live": "https://easysub.netlify.app/",
