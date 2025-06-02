@@ -1,5 +1,26 @@
 [
   {
+    "name": "Career Code",
+    "repo": "https://github.com/shihabuddin-dev/career-code",
+    "live": "https://career-code-site.web.app/",
+    "language": "JavaScript",
+    "description": "Career Code is a modern job portal web application built with React, Tailwind CSS, and Firebase. It allows users to search and apply for jobs, manage their applications, and for recruiters to post and manage job listings."
+  },
+  {
+    "name": "Traditional Recipe",
+    "repo": "",
+    "live": "https://traditional-recipe.web.app/",
+    "language": "JavaScript",
+    "description": "A curated collection of authentic traditional recipes from around the world, built with React and Firebase. Explore, cook, and preserve culinary heritage with easy-to-follow instructions."
+  },
+  {
+    "name": "Introvert Blog",
+    "repo": "https://github.com/shihabuddin-dev/introvert-blog-client",
+    "live": "https://introvert-blogs.netlify.app/",
+    "language": "JavaScript",
+    "description": "A calm space for deep thoughts, silent strength, and personal reflection. Discover articles written with intention — not noise."
+  },
+  {
     "name": "User Management",
     "repo": "https://github.com/shihabuddin-dev/user-management-client",
     "live": "https://user-management-client-site.netlify.app/",

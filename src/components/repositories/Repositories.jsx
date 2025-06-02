@@ -11,16 +11,16 @@ const Repositories = ({ repositoriesPromise }) => {
     else setRepositories(repositoriesData.slice(0, 12));
   }, [showAll, repositoriesData]);
   return (
-    <div className="container lg:w-8/12 max-w-6xl mx-auto text-center mt-6 px-2 md:px-0">
+    <div className=" text-center mt-6">
       <h2 className="text-2xl font-bold space-x-1">
-        <span>Total Repositories</span>
+        <span>Total Repositories</span>{" "}
         <span>
           <CountUp
             start={0}
             end={repositoriesData.length}
             enableScrollSpy
             duration={9}
-          />{" "}
+          />
           +
         </span>
       </h2>
