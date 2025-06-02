@@ -19,6 +19,7 @@ Welcome to my personal projects website, built with **React.js** and styled for 
 - [react-awesome-reveal](https://www.npmjs.com/package/react-awesome-reveal) – Beautiful reveal animations
 - [react-countup](https://www.npmjs.com/package/react-countup) – Animated number counter
 - [react-icons](https://react-icons.github.io/react-icons/) – Popular icon packs
+- [react-simple-typewriter](https://www.npmjs.com/package/react-simple-typewriter) – Typewriter text animation
 - [Vercel](https://vercel.com/) – Seamless deployment
 
 ---

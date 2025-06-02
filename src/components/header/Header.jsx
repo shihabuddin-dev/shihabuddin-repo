@@ -14,11 +14,11 @@ const Header = () => {
         />
         <AnimatedStatusCircle size={26} color="#4CAF50" duration={2000} />
       </div>
+       <Fade>
       <h1 className="text-3xl md:text-4xl font-black md:pt-4">SHIHAB UDDIN</h1>
       <p className="text-xl md:text-2xl font-bold text-gray-500">
         (shihabuddin-dev)
       </p>
-      <Fade>
         <div className="flex justify-center items-center gap-2 text-lg">
           <a href="https://www.linkedin.com/in/shihabuddinreal" target="blank">
             <FaLinkedin className="text-blue-800" />

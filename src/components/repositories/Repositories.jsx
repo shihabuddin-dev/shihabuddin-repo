@@ -1,6 +1,7 @@
 import React, { use, useEffect, useState } from "react";
 import Repository from "../repository/Repository";
 import CountUp from "react-countup";
+import { Typewriter } from "react-simple-typewriter";
 
 const Repositories = ({ repositoriesPromise }) => {
   const repositoriesData = use(repositoriesPromise);
@@ -8,12 +9,25 @@ const Repositories = ({ repositoriesPromise }) => {
   const [showAll, setShowAll] = useState(false);
   useEffect(() => {
     if (showAll) setRepositories(repositoriesData);
-    else setRepositories(repositoriesData.slice(0, 12));
+    else setRepositories(repositoriesData.slice(0, 16));
   }, [showAll, repositoriesData]);
   return (
     <div className=" text-center mt-6">
       <h2 className="text-2xl font-bold space-x-1">
-        <span>Total Repositories</span>{" "}
+        <Typewriter
+          words={[
+            "Total Repositories",
+            "My Projects",
+            "New Projects",
+            "Total Projects",
+          ]}
+          loop={0}
+          cursor
+          cursorStyle="_"
+          typeSpeed={90}
+          deleteSpeed={80}
+          delaySpeed={2000}
+        />{" "}
         <span>
           <CountUp
             start={0}

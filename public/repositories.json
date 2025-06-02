@@ -8,7 +8,7 @@
   },
   {
     "name": "Traditional Recipe",
-    "repo": "",
+    "repo": "https://github.com/shihabuddin-dev/traditional-recipe-client",
     "live": "https://traditional-recipe.web.app/",
     "language": "JavaScript",
     "description": "A curated collection of authentic traditional recipes from around the world, built with React and Firebase. Explore, cook, and preserve culinary heritage with easy-to-follow instructions."
