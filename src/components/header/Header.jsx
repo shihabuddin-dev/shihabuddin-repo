@@ -2,6 +2,7 @@ import React from "react";
 import AnimatedStatusCircle from "../AnimatedStatusCircle/AnimatedStatusCircle";
 import { FaFacebookSquare, FaGithubSquare, FaLinkedin } from "react-icons/fa";
 import { Fade } from "react-awesome-reveal";
+import { TbWorldCode } from "react-icons/tb";
 
 const Header = () => {
   return (
@@ -20,7 +21,10 @@ const Header = () => {
         (shihabuddin-dev)
       </p>
         <div className="flex justify-center items-center gap-2 text-lg">
-          <a href="https://www.linkedin.com/in/shihabuddinreal" target="blank">
+          <a href="https://shihab-dev.web.app" target="blank">
+            <TbWorldCode className="text-blue-800" />
+          </a>
+          <a href="https://www.linkedin.com/in/shihab-dev" target="blank">
             <FaLinkedin className="text-blue-800" />
           </a>
 

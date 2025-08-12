@@ -29,7 +29,7 @@ Welcome to my personal projects website, built with **React.js** and styled for 
 ```bash
 ├── public/
 ├── src/
-│   ├── components/     # Reusable components     
+│   ├── components/     # Reusable components
 │   ├── assets/         # Images, icons, etc.
 │   ├── App.jsx
 │   └── main.jsx
@@ -42,21 +42,25 @@ Welcome to my personal projects website, built with **React.js** and styled for 
 ## 🧑‍💻 Getting Started (for developers)
 
 ### 1. Clone the repo
+
 ```bash
 git clone https://github.com/shihabuddin-dev/shihabuddin-repo.git
 ```
 
 ### 2. Navigate to the project
+
 ```bash
 cd shihabuddin-repo
 ```
 
 ### 3. Install dependencies
+
 ```bash
 npm install
 ```
 
 ### 4. Start the dev server
+
 ```bash
 npm run dev
 ```
@@ -66,6 +70,7 @@ npm run dev
 ## 📦 Deployment
 
 ### To build for production
+
 ```bash
 npm run build
 ```
@@ -73,14 +78,17 @@ npm run build
 ---
 
 ## 🙋‍♂️ About Me
-**Hi, I’m Shihabuddin – a passionate web developer on a mission to build clean and modern web experiences. Let’s connect!**
+
+**Hi, I’m Shihabuddin – a passionate full stack engineer on a mission to build clean and modern web experiences. Let’s connect!**
 
 ---
 
 ## 📞 Contact
+
 - 🌐 [Facebook](https://www.facebook.com/shihabuddinReal)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shihabuddinreal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shihab-dev)
 - 🐙 [GitHub](https://github.com/shihabuddin-dev)
+- ➡️ [Facebook](https://www.facebook.com/shihabuddinReal)
 
 ---
 

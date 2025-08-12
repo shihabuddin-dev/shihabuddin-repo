@@ -1,5 +1,33 @@
 [
   {
+    "name": "Edu Sync",
+    "repo": "https://github.com/shihabuddin-dev/edu-sync-client",
+    "live": "https://edu-sync-pro.web.app/",
+    "language": "JavaScript",
+    "description": "Edu Sync is a modern, collaborative platform designed to connect students, tutors, and administrators for a seamless educational experience. Our mission is to make learning accessible, engaging, and effective for everyone, everywhere. Edu Sync streamlines study session scheduling, resource sharing, and progress tracking—all in a secure, user-friendly environment."
+  },
+  {
+    "name": "Dev Portfolio",
+    "repo": "https://github.com/shihabuddin-dev/shihab-dev",
+    "live": "https://shihab-dev.web.app/",
+    "language": "JavaScript",
+    "description": "This is Shihab Uddin Developer's responsive portfolio website built with React, showcasing my skills, projects, and professional experience."
+  },
+  {
+    "name": "Pro Fast",
+    "repo": "https://github.com/shihabuddin-dev/profast-service-client",
+    "live": "https://profast-service.web.app/",
+    "language": "JavaScript",
+    "description": "ProFast Service is parcel delivery management client built with React, Vite, and Tailwind CSS. This project provides dashboards and features for users, riders, and admins, including real-time parcel tracking, status breakdowns, and payment integration."
+  },
+  {
+    "name": "Athletic Hub",
+    "repo": "https://github.com/shihabuddin-dev/athletic-hub-client",
+    "live": "https://athletichub-pro.web.app/",
+    "language": "JavaScript",
+    "description": "A next generation, animated, and fully responsive event booking platform for athletes, organizers, and fans. Experience seamless event discovery, booking, and management all in one place."
+  },
+  {
     "name": "Career Code",
     "repo": "https://github.com/shihabuddin-dev/career-code",
     "live": "https://career-code-site.web.app/",
